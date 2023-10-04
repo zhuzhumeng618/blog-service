@@ -1,0 +1,2 @@
+2023/10/04 13:47:02 {"callers":["C:/Projects/work/src/blog-service/main.go: 28 main.init.0"],"level":"info","message":"zhuzhumeng: book/blog-service","time":1696398422510974900}
+2023/10/04 17:04:49 {"callers":["C:/Projects/work/src/blog-service/main.go: 28 main.init.0"],"level":"info","message":"zhuzhumeng: book/blog-service","time":1696410289071381000}
